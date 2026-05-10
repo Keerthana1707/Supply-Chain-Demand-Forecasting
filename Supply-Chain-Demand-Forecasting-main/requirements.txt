@@ -1,0 +1,11 @@
+pandas
+numpy
+torch
+pytorch-lightning
+pytorch-forecasting
+fastapi
+uvicorn
+shap
+scikit-learn
+matplotlib
+google-generativeai
